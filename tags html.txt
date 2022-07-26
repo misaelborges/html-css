@@ -1,0 +1,54 @@
+** corpo do HTML:
+	<!DOCTYPE html>
+	<html lang="pt-br">
+	<head>
+    		<meta charset="UTF-8">
+    		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    		<title>Parágrafos</title>
+	</head>
+	<body>
+
+	</body>
+	</html>
+
+** simbolos e emojis no HTML:
+	&lt;p&gt; = <>
+	&reg; = ® 
+	&copy; = ©
+	&trade; = ™
+        &pound; = £
+        &yen; = ¥
+        &cent; ¢
+        &delta; = δ minusculo com d 
+        &Delta; = Δ maiusculo com D 
+        &uparrow; = ↑
+        &downarrow; = ↓
+        &leftarrow; = ←
+        &RightArrow; = → 
+        &rightleftarrows; = ⇄
+
+→ para emoji vai usar a tag: &#x1 + o codigo do emogi.
+por exemplo:	&#x1F596 OU &#x1F913;
+onde o &#x é a tag, e o 1F596 é o codigo do emoji!
+
+** tags html:
+	<h1></h1> tag para titulo
+
+	<h2></h2> tag para titulo
+
+	<h3></h3> tag para titulo
+
+	<h4></h4> tag para titulo
+
+	<p></p> tag para paragrafo
+
+	<hr> tag para criar uma linha horizontal
+
+	<br> tag para quebras linhas
+
+	<img src="" alt=""> = tag para imagens
+
+** 
+
+
